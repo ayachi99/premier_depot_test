@@ -1,3 +1,3 @@
 print ("hello")
 var="test"
-print("joli script")
+print var 
